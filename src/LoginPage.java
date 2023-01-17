@@ -136,7 +136,7 @@ public class LoginPage extends javax.swing.JFrame {
                     this.dispose();
                 }
                 else{
-                    JOptionPane.showMessageDialog(this,"username or passowrd is wrong");
+                    JOptionPane.showMessageDialog(this,"username or password is wrong");
                 }
             }
             else{
